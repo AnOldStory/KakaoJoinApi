@@ -1,5 +1,4 @@
 # KakaoJoinApi
-==============
 
 npm install
 
