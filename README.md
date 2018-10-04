@@ -1,2 +1,6 @@
 # KakaoJoinApi
-KaKaoTalk Join Api
+==============
+
+npm install
+
+npm start
