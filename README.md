@@ -1,4 +1,4 @@
-Kakao Join Api V1.0.0
+Kakao Talk Join Api V1.0.0
 ===============================
 
 Description
